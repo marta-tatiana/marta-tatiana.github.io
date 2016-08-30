@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://marta-tatiana.github.io
+title: Today's lesson is...
+email: marta.tatiana.musik@gmail.com
+author: Marta Tatiana
+description: Checking out Tinypress ;)
+paginate: 5
+google_analytics: 
