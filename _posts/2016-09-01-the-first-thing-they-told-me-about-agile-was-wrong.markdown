@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The first thing they told me about Agile was wrong.
 layout: post
 ---
