@@ -6,7 +6,9 @@ layout: post
 I remember my first Agile and Scrum training (both explained and done in one session). The trainer started with convincing comparison. ‘You’re lucky’, he said. ‘You are not building a house. When one is building a house, once a decision is made, it cannot be undone. Once fundaments are ready, there is no changing and no going back. It takes time and costs a lot, and there is no option to tear down a house and start over, again, from scratch’. ‘And with software, you  have the luxury of working in iteractions, making incremental changes and incremental progress. Each iteration, you can create better product than in previous iteration’. At that time, we all nodded our heads. Then, he spent rest of the training explaining us what Scrum is and what are its necessary practices and meetings.
 
 He made it sound like 
+
 * you can be agile, working on any software project in the world
+
 * getting better is about starting from scratch, over and over.
 
 And now I know, he was wrong. 
